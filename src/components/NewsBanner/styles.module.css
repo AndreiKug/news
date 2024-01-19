@@ -1,0 +1,17 @@
+.banner {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.title {
+    font-size: 16px;
+}
+
+.extra {
+    font-size: 12px;
+    color: #6c7072;
+}
